@@ -1,0 +1,1 @@
+Cada pasta está separado com 1 para implementação estática e 2 implementação dinâmica, ou seja, na pasta fila o script fila1.c é a implementação estática e o script fila2.c é implementação dinâmica.
